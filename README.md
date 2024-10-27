@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=techrahmanbd/README.md)
+![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=techrahmanbd/README.md)
 
 - 👋 Hi, I’m @techrahmanbd
 - 👀 I’m interested in ...
