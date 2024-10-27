@@ -42,4 +42,15 @@
 <a href="https://isocpp.org"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30" height="30"></a>
 <a href="https://developer.android.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/APK_format_icon_%282014-2019%29.png" alt="Android" width="30" height="30"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=techrahmanbd&show_icons=true&theme=default" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrahmanbd&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
