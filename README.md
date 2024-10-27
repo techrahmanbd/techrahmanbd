@@ -1,7 +1,7 @@
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=techrahmanbd/README.md)
 # Welcome to My GitHub Profile
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello,+I'm+TechRahman!;Welcome+to+my+GitHub+profile!)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello,+I'm+Abdur+Rahman!;Welcome+to+my+GitHub+profile!)
 
 
 
