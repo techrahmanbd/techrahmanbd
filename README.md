@@ -16,6 +16,9 @@
         <li>🔴 <strong>Gender:</strong> Male</li>
       </ul>
       <p>📧 Email: <a href="mailto:techrahmanbd@gmail.com">techrahmanbd@gmail.com</a></p>
+        <a href="https://techrahmanbd.github.io/rahman-cv/" target="_blank" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    DOWNLOAD CV
+  </a>
     </td>
     <td>
       <img src="https://media.tenor.com/G61A9zcJgVYAAAAM/android-developer.gif" width="300" alt="Coding Illustration"/>
@@ -28,7 +31,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/)
-
 
 
 
